@@ -1,0 +1,96 @@
+a{
+    color: orange;
+    font-weight: 650;
+}
+h2{
+    margin-bottom: -20px;
+}
+h5{
+    text-align: center;
+}
+#header{
+    padding-top: 30px;
+}
+.nav{
+    float: right;
+}
+.nav a{
+    font-weight: 500;
+    color: gray;
+}
+.carousel-indicators .active{
+    background-color: #FF9C35;
+}
+.position-fix h1{
+    padding-top: 150px;
+}
+.position-fix p{
+    color: #707070;
+    margin: 20px 0px 30px 0px;
+}
+.btn-lg{
+    background-color: black !important;
+    border-color: black;
+}
+#products{
+    margin-top: 80px;
+}
+.card{
+    border: none;
+    box-shadow: 0.1px 0.1px 25px #eeeeeef1;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: center;
+}
+.products-header a{
+    float: right;
+    margin-bottom: 20px;
+}
+.card-section{
+    clear: both;
+}
+.categories{
+    margin-top: 100px;
+}
+.pale-order img{
+    width: 100%;
+}
+.underline{
+    border:  1px orange solid;
+    width: 9%;
+    height: 7px;
+    border-radius: 15px;
+    display : inline-block;
+   background-color: orange;
+   margin-bottom: 80px;
+}
+.image-background-left{
+    box-shadow: 2px 2px 40px #DDDDDD;
+    padding: 20px;
+    border-radius: 0 25px;
+    margin-top: 45px;
+}
+.image-background-right{
+    box-shadow: 2px 2px 40px #DDDDDD;
+    padding: 20px;
+    border-radius: 25px 0;
+    margin-bottom: 35px;
+}
+.col-md-3 img{
+   margin: 25px 0;
+}
+.pale-order{
+    width: 100%;
+    margin: 40px 0 0 20px;
+}
+.centerization{
+    text-align: center;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+    opacity: 0.6;
+}
